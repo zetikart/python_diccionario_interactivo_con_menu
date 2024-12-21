@@ -25,7 +25,7 @@ Leer valores desde un archivo TXT 📂
 Uso 📖
 Para iniciar el menú interactivo, simplemente ejecuta el script:
 
-bash
+
 python diccionarios_interactivos.py
 Ejemplo de Uso 🚀
 bash
@@ -38,15 +38,18 @@ Menú Principal:
 Instalación 🛠️
 Clona este repositorio:
 
-bash
+
 git clone https://github.com/tu-usuario/diccionario-interactivo.git
 Navega al directorio del proyecto:
 
-bash
+
 cd diccionario-interactivo
 Ejecuta el script:
 
-bash
+
 python diccionarios_interactivos.py
+
+
+
 Contribuciones 🤝
-¡Las contribuciones son bienvenidas! Siéntete libre de enviar PRs o abrir issues para mejorar este proyecto.
+
