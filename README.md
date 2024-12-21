@@ -20,33 +20,31 @@ Modificar llaves 🔄
 
 Quitar valores 🚮
 
-Leer valores desde un archivo TXT 📂
 
 Uso 📖
 Para iniciar el menú interactivo, simplemente ejecuta el script:
-
-
 python diccionarios_interactivos.py
+
+
 Ejemplo de Uso 🚀
-bash
 Menú Principal:
 1. Crear nuevo diccionario
 2. Seleccionar diccionario existente
 3. Eliminar diccionario existente
 4. Imprimir valores desde un archivo
 0. Salir
+
+
 Instalación 🛠️
-Clona este repositorio:
-
-
+Clona este repositorio
 git clone https://github.com/tu-usuario/diccionario-interactivo.git
+
+
 Navega al directorio del proyecto:
-
-
 cd diccionario-interactivo
+
+
 Ejecuta el script:
-
-
 python diccionarios_interactivos.py
 
 
